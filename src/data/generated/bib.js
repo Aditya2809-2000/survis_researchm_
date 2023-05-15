@@ -1,17 +1,116 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+    "alam2021corporate": {
+        "author": "Alam, Talha Mahboob and Shaukat, Kamran and Mushtaq, Mubbashar and Ali, Yasir and Khushi, Matloob and Luo, Suhuai and Wahab, Abdul",
+        "journal": "The Computer Journal",
+        "keywords": "type:Research, Bankruptcy prediction, SMOTE,machine learning",
+        "number": "11",
+        "pages": "1731--1746",
+        "publisher": "Oxford University Press",
+        "title": "Corporate bankruptcy prediction: An approach towards better corporate world",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "volume": "64",
+        "year": "2021"
+    },
+    "ansari2020hybrid": {
+        "author": "Ansari, Abdollah and Ahmad, Ibrahim Said and Bakar, Azuraliza Abu and Yaakub, Mohd Ridzwan",
+        "journal": "IEEE access",
+        "keywords": "type:Qualitative, Evolutionary optimization algorithms, bankruptcy prediction, artificial neural network, magnetic optimization algorithm, particle swarm optimization, metaheuristic",
+        "pages": "176640--176650",
+        "publisher": "IEEE",
+        "title": "A hybrid metaheuristic method in training artificial neural network for bankruptcy prediction",
+        "type": "article",
+        "volume": "8",
+        "year": "2020"
+    },
+    "garcia2019dissimilarity": {
+        "author": "Garc{\\'\\i}a, Vicente and Marqu{\\'e}s, Ana I and S{\\'a}nchez, J Salvador and Ochoa-Dom{\\'\\i}nguez, Humberto J",
+        "journal": "Computational Economics",
+        "keywords": "type:Qualitative, Bankruptcy prediction, Dissimilarity representation, Linear classifier, Qualitative variables",
+        "pages": "1019--1031",
+        "publisher": "Springer",
+        "title": "Dissimilarity-based linear models for corporate bankruptcy prediction",
+        "type": "article",
+        "volume": "53",
+        "year": "2019"
+    },
+    "narvekar2021bankruptcy": {
+        "author": "Narvekar, Aditya and Guha, Debashis",
+        "journal": "Data Science in Finance and Economics",
+        "keywords": "type:Qualitative, bankruptcy prediction, business failure, financial distress, insolvency, default firm, SLR",
+        "number": "2",
+        "pages": "180--195",
+        "title": "Bankruptcy prediction using machine learning and an application to the case of the COVID-19 recession",
+        "type": "article",
+        "volume": "1",
+        "year": "2021"
+    },
+    "park2021explainability": {
+        "author": "Park, Min Sue and Son, Hwijae and Hyun, Chongseok and Hwang, Hyung Ju",
+        "journal": "IEEE Access",
+        "keywords": "type:Qualitative,  Bankruptcy prediction, machine learning, explainable AI, feature importance",
+        "pages": "124887--124899",
+        "publisher": "IEEE",
+        "title": "Explainability of machine learning models for bankruptcy prediction",
+        "type": "article",
+        "volume": "9",
+        "year": "2021"
+    },
+    "shetty2022bankruptcy": {
+        "author": "Shetty, Shekar and Musa, Mohamed and Br{\\'e}dart, Xavier",
+        "journal": "Journal of Risk and Financial Management",
+        "keywords": "type:Research, bankruptcy, deep learning, support vector machine, extreme gradient boosting, SMEs",
+        "number": "1",
+        "pages": "35",
+        "publisher": "Multidisciplinary Digital Publishing Institute",
+        "title": "Bankruptcy Prediction Using Machine Learning Techniques",
+        "type": "article",
+        "volume": "15",
+        "year": "2022"
+    },
+    "shi2019overview": {
+        "author": "Shi, Yin and Li, Xiaoni",
+        "journal": "Intangible Capital",
+        "keywords": "type:Research, bankruptcy prediction, business failure, financial distress, insolvency, default firm, SLR",
+        "number": "2",
+        "pages": "114--127",
+        "publisher": "OmniaScience",
+        "title": "An overview of bankruptcy prediction models for corporate firms: A systematic literature review",
+        "type": "article",
+        "volume": "15",
+        "year": "2019"
+    },
+    "thilakarathna2022using": {
+        "author": "Thilakarathna, Chaminda and Dawson, Christian and Edirisinghe, Eran",
+        "booktitle": "2022 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)",
+        "keywords": "type:Quantitative, bankruptcy, neural networks, financial ratios",
+        "organization": "IEEE",
+        "pages": "55--58",
+        "title": "Using financial ratios with artificial neural networks for bankruptcy prediction",
+        "type": "article",
+        "year": "2022"
+    },
+    "wang2021undersampling": {
+        "author": "Wang, Haoming and Liu, Xiangdong",
+        "journal": "Plos one",
+        "keywords": "type:Quantitative, bankruptcy, Machine learning, financial ratios",
+        "number": "7",
+        "pages": "e0254030",
+        "publisher": "Public Library of Science San Francisco, CA USA",
+        "title": "Undersampling bankruptcy prediction: Taiwan bankruptcy data",
+        "type": "article",
+        "volume": "16",
+        "year": "2021"
+    },
+    "wilson1994bankruptcy": {
+        "author": "Wilson, Rick L and Sharda, Ramesh",
+        "journal": "Decision support systems",
+        "keywords": "type:Qualitative, Neural network applications, Bankruptcy predic\u0002tion, Discriminant analysis, Classification technique",
+        "number": "5",
+        "pages": "545--557",
+        "publisher": "Elsevier",
+        "title": "Bankruptcy prediction using neural networks",
+        "type": "article",
+        "volume": "11",
+        "year": "1994"
     }
 };
